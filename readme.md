@@ -1,4 +1,4 @@
-# Free and non free books all can learn from 📚
+# Youtube channels all can learn from 📚
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting youtube channels one can watch to learn new things and discover new insights. 🔭
 
