@@ -2,7 +2,12 @@
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting youtube channels one can watch to learn new things and discover new insights. 🔭
 
+
 Pull requests are welcome. Thank you. 💙
+
+#### Related websites / repositories 
+
+- [want to go learn a thing?](http://mysterybox.goverbanoun.com/)
 
 # Channels
 
