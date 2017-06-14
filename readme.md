@@ -30,8 +30,6 @@ Pull requests are welcome. Thank you. 💙
 
 - [periodic videos 🎥](https://www.youtube.com/user/periodicvideos/videos)
 
-- [sci show 🎥](https://www.youtube.com/user/scishow/videos)
-
 - [sixty symbols 🎥](https://www.youtube.com/user/sixtysymbols/videos)
 
 - [smarter every day 🎥](https://www.youtube.com/user/destinws2/videos)
@@ -41,6 +39,32 @@ Pull requests are welcome. Thank you. 💙
 - [veritasium 🎥](https://www.youtube.com/user/1veritasium/videos)
 
 - [VSauce 🎥](https://www.youtube.com/user/Vsauce/videos)
+
+- [VSauce2 🎥](https://www.youtube.com/user/Vsauce2/videos)
+
+- [VSauce3 🎥](https://www.youtube.com/user/Vsauce3/videos)
+
+- [brain craft 🎥](https://www.youtube.com/user/braincraftvideo/videos)
+
+- [conjecture 🎥](https://www.youtube.com/user/conjecturevlog/videos)
+
+- [think fact 🎥](https://www.youtube.com/user/Thinkjijok/videos)
+
+- [technicality 🎥](https://www.youtube.com/user/TechnicalityTime/videos)
+
+- [soliloquy 🎥](https://www.youtube.com/user/Soliloquy084/videos)
+
+- [Sally Le Page 🎥](https://www.youtube.com/user/shedscience/videos)
+
+- [SciShow Kids 🎥](https://www.youtube.com/user/scishowkids/videos)
+
+- [SciShow Psych 🎥](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA/videos)
+
+- [Seeker 🎥](https://www.youtube.com/user/DNewsChannel/videos)
+
+- [StarTalk Radio 🎥](https://www.youtube.com/user/startalkradio/videos)
+
+- [TheGoodStuff 🎥](https://www.youtube.com/user/TheGoodStuff/videos)
 
 
 # computer science
@@ -55,6 +79,16 @@ Pull requests are welcome. Thank you. 💙
 - [my code school 🎥](https://www.youtube.com/user/mycodeschool/videos)
 
 - [sucker pinch 🎥](https://www.youtube.com/user/suckerpinch/videos)
+
+- [sucker pinch 🎥](https://www.youtube.com/user/suckerpinch/videos)
+
+- [Dave Xiang 🎥](https://www.youtube.com/user/daveXbang/videos)
+
+- [freeCodeCamp 🎥](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
+
+- [Two Minute Papers 🎥](https://www.youtube.com/user/keeroyz/videos)
+
+- [Siraj Raval 🎥](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)
 
 
 # music
@@ -87,6 +121,12 @@ Pull requests are welcome. Thank you. 💙
 - [dr physics A 🎥](https://www.youtube.com/user/DrPhysicsA/videos)
 
 - [deep sky videos 🎥](https://www.youtube.com/user/DeepSkyVideos/videos)
+
+- [PBS Space Time 🎥](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/videos)
+
+- [Physics Girl 🎥](https://www.youtube.com/user/physicswoman/videos)
+
+- [SciShow Space 🎥](https://www.youtube.com/user/scishowspace/videos)
 
 
 # math
