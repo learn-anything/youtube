@@ -145,3 +145,26 @@ Pull requests are welcome. Thank you. 💙
 - [the great war 🎥](https://www.youtube.com/user/TheGreatWar/videos)
 
 
+
+# booktube
+
+
+- [polandbananasBOOKS 🎥](https://www.youtube.com/user/polandbananasBOOKS/videos)
+
+- [PeruseProject 🎥](https://www.youtube.com/user/PeruseProject/videos)
+
+- [jessethereader 🎥](https://www.youtube.com/user/jessethereader/videos)
+
+- [Ariel Bissett 🎥](https://www.youtube.com/user/ArielBissett/videos)
+
+- [abookutopia 🎥](https://www.youtube.com/user/abookutopia/videos)
+
+- [booksandquills 🎥](https://www.youtube.com/user/booksandquills/videos)
+
+- [Katytastic 🎥](https://www.youtube.com/user/Katytastic/videos)
+
+- [Little Book Owl 🎥](https://www.youtube.com/user/LittleBookOwl/videos)
+
+- [Jean Bookishthoughts 🎥](https://www.youtube.com/user/BookishThoughts/videos)
+
+- [Lamp Sunnies 🎥](https://www.youtube.com/channel/UClV67kL6_BTJqUBAJVRA2Dg/videos)
