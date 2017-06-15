@@ -173,7 +173,3 @@ Pull requests are welcome. Thank you. 💙
 
 
 - [Sexplanations 🎥](https://www.youtube.com/user/Sexplanations/videos)
-
-- [Shan Boodram 🎥](https://www.youtube.com/user/shannonboodram/videos)
-
-- [Sexperimentando con Nayara Malnero 🎥](https://www.youtube.com/user/Sexperimentando/videos)
