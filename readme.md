@@ -80,8 +80,6 @@ Pull requests are welcome. Thank you. 💙
 
 - [sucker pinch 🎥](https://www.youtube.com/user/suckerpinch/videos)
 
-- [sucker pinch 🎥](https://www.youtube.com/user/suckerpinch/videos)
-
 - [Dave Xiang 🎥](https://www.youtube.com/user/daveXbang/videos)
 
 - [freeCodeCamp 🎥](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
@@ -168,3 +166,14 @@ Pull requests are welcome. Thank you. 💙
 - [Jean Bookishthoughts 🎥](https://www.youtube.com/user/BookishThoughts/videos)
 
 - [Lamp Sunnies 🎥](https://www.youtube.com/channel/UClV67kL6_BTJqUBAJVRA2Dg/videos)
+
+
+
+# sex education
+
+
+- [Sexplanations 🎥](https://www.youtube.com/user/Sexplanations/videos)
+
+- [Shan Boodram 🎥](https://www.youtube.com/user/shannonboodram/videos)
+
+- [Sexperimentando con Nayara Malnero 🎥](https://www.youtube.com/user/Sexperimentando/videos)
