@@ -1,4 +1,15 @@
-# Youtube channels all can learn from 📚
+<h1 align="center">  Youtube channels all can learn from 📚 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/youtube/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting youtube channels one can watch to learn new things and discover new insights. 🔭
 
@@ -9,9 +20,7 @@ Pull requests are welcome. Thank you. 💙
 
 - [want to go learn a thing?](http://mysterybox.goverbanoun.com/)
 
-# Channels
-
-# learning
+<h1 align="center"> Youtube Channels </h1>
 
 
 - [crash course 🎥](https://www.youtube.com/user/crashcourse/videos)
