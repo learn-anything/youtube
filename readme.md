@@ -1,11 +1,11 @@
-# Youtube channels all can learn from 🎥 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting youtube channels one can watch to learn new things and discover new insights. 
+# Interesting YouTube channels [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting youtube channels.
 
-### Related websites / repositories 
-- [want to go learn a thing?](http://mysterybox.goverbanoun.com/)
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
+- [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
 
 ## Youtube Channels
 ### General
@@ -73,3 +73,6 @@ Pull requests are welcome. Thank you. 💙
 # Interesting
 - [primitive technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
 - [the great war](https://www.youtube.com/user/TheGreatWar/videos)
+
+## Contribute 
+If you found an interesting YouTube channel that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
