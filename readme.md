@@ -1,17 +1,10 @@
-# Interesting YouTube channels [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting YouTube channels [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-This is a curated list of all the interesting youtube channels.
-
-Pull requests are welcome. Thank you. 💜
-
-## Related websites / repositories 
-- [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
-
-## Youtube Channels
-### General
-- [crash course](https://www.youtube.com/user/crashcourse/videos)
-- [the gates notes](https://www.youtube.com/user/thegatesnotes/videos)
-- [tom scott](https://www.youtube.com/user/enyay/videos)
+## General
+- [Crash course](https://www.youtube.com/user/crashcourse/videos)
+- [The gates notes](https://www.youtube.com/user/thegatesnotes/videos)
+- [Tom Scott](https://www.youtube.com/user/enyay/videos)
 - [scishow](https://www.youtube.com/user/scishow/videos)
 - [in a nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 - [cgp grey](https://www.youtube.com/user/CGPGrey/videos)
@@ -47,6 +40,9 @@ Pull requests are welcome. Thank you. 💜
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/videos)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)
 
+## Go
+- [package main](https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw)
+
 # Music
 - [majestic casual](https://www.youtube.com/user/majesticcasual/videos)
 - [dynmk](https://www.youtube.com/user/dynmkde/videos)
@@ -66,6 +62,9 @@ Pull requests are welcome. Thank you. 💜
 - [Physics Girl](https://www.youtube.com/user/physicswoman/videos)
 - [SciShow Space](https://www.youtube.com/user/scishowspace/videos)
 
+## Swift
+- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
+
 # Math
 - [numberphile](https://www.youtube.com/user/numberphile/videos)
 - [vi hart](https://www.youtube.com/user/Vihart/videos)
@@ -74,5 +73,5 @@ Pull requests are welcome. Thank you. 💜
 - [primitive technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
 - [the great war](https://www.youtube.com/user/TheGreatWar/videos)
 
-## Contribute 
-If you found an interesting YouTube channel that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Related
+- [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
