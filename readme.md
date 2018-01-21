@@ -42,7 +42,7 @@
 
 ## Go
 - [package main](https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw)
-- [Just fo Func](https://www.youtube.com/watch?v=eIeHdzsPvjw)
+- [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
 # Music
 - [majestic casual](https://www.youtube.com/user/majesticcasual/videos)
