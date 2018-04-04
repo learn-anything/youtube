@@ -39,6 +39,7 @@
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos)
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/videos)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)
+- [ThisHosting.Rocks](https://www.youtube.com/channel/UChV9cBUi9LBd8Ishsnn9FOw/videos)
 
 ## Go
 - [Package main](https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw)
