@@ -76,6 +76,7 @@
 
 ## Related
 - [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
+- [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
