@@ -69,6 +69,8 @@
 # Math
 - [Numberphile](https://www.youtube.com/user/numberphile/videos)
 - [Vi Hart](https://www.youtube.com/user/Vihart/videos)
+- [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g) - Shut down but videos are still up.
+- [The Catsters](https://www.youtube.com/user/TheCatsters) - Videos on category theory.
 
 # Interesting
 - [Primitive technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
