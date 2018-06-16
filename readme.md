@@ -44,17 +44,19 @@
 - [Package main](https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw)
 - [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
-# Music
+## Music
 - [Majestic casual](https://www.youtube.com/user/majesticcasual/videos)
 - [Dynmk](https://www.youtube.com/user/dynmkde/videos)
 - [Cloud kid](https://www.youtube.com/user/CloudKidOfficial/videos)
 
-# Funny
+## Funny
 - [Penguinz0](https://www.youtube.com/user/penguinz0)
 - [Awake with JP](https://www.youtube.com/user/AwakenWithJP/videos)
 - [Casually explained](https://www.youtube.com/channel/UCr3cBLTYmIK9kY0F_OdFWFQ/videos)
+- [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Queen of shitty robots.
+- [ExplosmEntertainment](https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw) - 'Cyanide & Happiness' comics, shorts, and animations.
 
-# Physics
+## Physics
 - [Minute physics](https://www.youtube.com/user/minutephysics/videos)
 - [PhysicsEH](https://www.youtube.com/user/PhysicsEH/videos)
 - [Dr physics A](https://www.youtube.com/user/DrPhysicsA/videos)
@@ -63,16 +65,26 @@
 - [Physics Girl](https://www.youtube.com/user/physicswoman/videos)
 - [SciShow Space](https://www.youtube.com/user/scishowspace/videos)
 
+## Crafting
+- [Tested](https://www.youtube.com/user/testedcom) - Has a series "Adam Savage's One Day Builds" where Adam builds things in one day.
+- [PeterSripol](https://www.youtube.com/channel/UC7yF9tV4xWEMZkel7q8La_w) - Builds mostly RC vehicles.
+- [Wintergatan](https://www.youtube.com/user/wintergatan2000) - Shows the process of building the Marble Machine X, a programmable music machine.
+- [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw) - Builds things of dubious usefulness in a funny format.
+
 ## Swift
 - [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
 
-# Math
+## Math
 - [Numberphile](https://www.youtube.com/user/numberphile/videos)
 - [Vi Hart](https://www.youtube.com/user/Vihart/videos)
 - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g) - Shut down but videos are still up.
 - [The Catsters](https://www.youtube.com/user/TheCatsters) - Videos on category theory.
 
-# Interesting
+## Cooking
+- [The Happy Pear](https://www.youtube.com/channel/UCr1PC384fLPw5PxyXecQDTw) - Vegan recipes.
+- [Bon Appetit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w) - Has a 'From the Test Kitchen' playlist where they try to recreate some foods. 
+
+## Interesting
 - [Primitive technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
 - [The great war](https://www.youtube.com/user/TheGreatWar/videos)
 
