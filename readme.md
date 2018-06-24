@@ -5,7 +5,7 @@
 - [Crash course](https://www.youtube.com/user/crashcourse/videos)
 - [The gates notes](https://www.youtube.com/user/thegatesnotes/videos)
 - [Tom Scott](https://www.youtube.com/user/enyay/videos)
-- [Scishow](https://www.youtube.com/user/scishow/videos)
+- [SciShow](https://www.youtube.com/user/scishow/videos)
 - [In a nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 - [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
 - [Asap science](https://www.youtube.com/user/AsapSCIENCE/videos)
@@ -80,9 +80,12 @@
 - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g) - Shut down but videos are still up.
 - [The Catsters](https://www.youtube.com/user/TheCatsters) - Videos on category theory.
 
+## Physics
+- [The Science Asylum](https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg) - At the Science Asylum, we present anything related to science from the point of view of Nick Lucid.
+
 ## Cooking
 - [The Happy Pear](https://www.youtube.com/channel/UCr1PC384fLPw5PxyXecQDTw) - Vegan recipes.
-- [Bon Appetit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w) - Has a 'From the Test Kitchen' playlist where they try to recreate some foods. 
+- [Bon Appetit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w) - Has a 'From the Test Kitchen' playlist where they try to recreate some foods.
 
 ## Interesting
 - [Primitive technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
