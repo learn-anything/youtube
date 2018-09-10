@@ -1,5 +1,5 @@
 # Awesome YouTube channels [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## General
 - [Crash course](https://www.youtube.com/user/crashcourse/videos)
@@ -96,7 +96,7 @@
 - [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
