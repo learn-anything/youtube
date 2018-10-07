@@ -79,10 +79,10 @@
 - [TheGoodStuff](https://www.youtube.com/user/TheGoodStuff/videos)
 - [Think fact](https://www.youtube.com/user/Thinkjijok/videos)
 - [Tom Scott](https://www.youtube.com/user/enyay/videos)
+- [Veritasium](https://www.youtube.com/user/1veritasium/videos)
+- [VSauce](https://www.youtube.com/user/Vsauce/videos)
 - [VSauce2](https://www.youtube.com/user/Vsauce2/videos)
 - [VSauce3](https://www.youtube.com/user/Vsauce3/videos)
-- [VSauce](https://www.youtube.com/user/Vsauce/videos)
-- [Veritasium](https://www.youtube.com/user/1veritasium/videos)
 
 ## Go
 
