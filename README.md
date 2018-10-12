@@ -17,7 +17,6 @@
 - [Math](#math)
 - [Music](#music)
 - [Physics](#physics)
-- [Physics](#physics)
 - [Related](#related)
 - [Swift](#swift)
 
@@ -38,6 +37,7 @@
 ## Cooking
 
 - [Bon Appetit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w) - Has a 'From the Test Kitchen' playlist where they try to recreate some foods.
+- [Tasty](https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q/videos) - Snack-sized videos and recipes you'll want to try.
 - [The Happy Pear](https://www.youtube.com/channel/UCr1PC384fLPw5PxyXecQDTw) - Vegan recipes.
 
 ## Crafting
@@ -58,11 +58,13 @@
 ## General
 
 - [Asap science](https://www.youtube.com/user/AsapSCIENCE/videos)
+- [Big Think](https://www.youtube.com/user/bigthink/videos)
 - [Brain craft](https://www.youtube.com/user/braincraftvideo/videos)
 - [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
 - [Conjecture](https://www.youtube.com/user/conjecturevlog/videos)
 - [Crash course](https://www.youtube.com/user/crashcourse/videos)
 - [In a nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
+- [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart/videos)
 - [PBS idea channel](https://www.youtube.com/user/pbsideachannel/videos)
 - [Periodic videos](https://www.youtube.com/user/periodicvideos/videos)
 - [Sally Le Page](https://www.youtube.com/user/shedscience/videos)
@@ -73,8 +75,10 @@
 - [Sixty symbols](https://www.youtube.com/user/sixtysymbols/videos)
 - [Smarter every day](https://www.youtube.com/user/destinws2/videos)
 - [Soliloquy](https://www.youtube.com/user/Soliloquy084/videos)
-- [StarTalk Radio](https://www.youtube.com/user/startalkradio/videos)
+- [Talks at Google](https://www.youtube.com/user/AtGoogleTalks/videos) - Brings authors, musicians, innovators, and speakers for talks centering on their recently published books and capturing the zeitgeist of the day.
 - [Technicality](https://www.youtube.com/user/TechnicalityTime/videos)
+- [TED](https://www.youtube.com/user/TEDtalksDirector/videos) 
+- [TED-Ed](https://www.youtube.com/user/TEDEducation/videos)
 - [The gates notes](https://www.youtube.com/user/thegatesnotes/videos)
 - [TheGoodStuff](https://www.youtube.com/user/TheGoodStuff/videos)
 - [Think fact](https://www.youtube.com/user/Thinkjijok/videos)
@@ -96,6 +100,7 @@
 
 ## Math
 
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) - Some combination of math explanations and entertainment driven by animations.
 - [Numberphile](https://www.youtube.com/user/numberphile/videos)
 - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g) - Shut down but videos are still up.
 - [The Catsters](https://www.youtube.com/user/TheCatsters) - Videos on category theory.
@@ -116,9 +121,7 @@
 - [Physics Girl](https://www.youtube.com/user/physicswoman/videos)
 - [PhysicsEH](https://www.youtube.com/user/PhysicsEH/videos)
 - [SciShow Space](https://www.youtube.com/user/scishowspace/videos)
-
-## Physics
-
+- [StarTalk](https://www.youtube.com/user/startalkradio/videos) - Astrophysicist Neil deGrasse Tyson discuss astronomy, physics, and everything else about life in the universe.
 - [The Science Asylum](https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg) - At the Science Asylum, we present anything related to science from the point of view of Nick Lucid.
 
 ## Related
