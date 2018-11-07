@@ -17,8 +17,8 @@
 - [Math](#math)
 - [Music](#music)
 - [Physics](#physics)
-- [Related](#related)
 - [Swift](#swift)
+- [Related](#related)
 
 ---
 
@@ -77,16 +77,16 @@
 - [Soliloquy](https://www.youtube.com/user/Soliloquy084/videos)
 - [Talks at Google](https://www.youtube.com/user/AtGoogleTalks/videos) - Brings authors, musicians, innovators, and speakers for talks centering on their recently published books and capturing the zeitgeist of the day.
 - [Technicality](https://www.youtube.com/user/TechnicalityTime/videos)
-- [TED](https://www.youtube.com/user/TEDtalksDirector/videos) 
 - [TED-Ed](https://www.youtube.com/user/TEDEducation/videos)
+- [TED](https://www.youtube.com/user/TEDtalksDirector/videos) 
 - [The gates notes](https://www.youtube.com/user/thegatesnotes/videos)
 - [TheGoodStuff](https://www.youtube.com/user/TheGoodStuff/videos)
 - [Think fact](https://www.youtube.com/user/Thinkjijok/videos)
 - [Tom Scott](https://www.youtube.com/user/enyay/videos)
 - [Veritasium](https://www.youtube.com/user/1veritasium/videos)
-- [VSauce](https://www.youtube.com/user/Vsauce/videos)
 - [VSauce2](https://www.youtube.com/user/Vsauce2/videos)
 - [VSauce3](https://www.youtube.com/user/Vsauce3/videos)
+- [VSauce](https://www.youtube.com/user/Vsauce/videos)
 
 ## Go
 
@@ -124,14 +124,14 @@
 - [StarTalk](https://www.youtube.com/user/startalkradio/videos) - Astrophysicist Neil deGrasse Tyson discuss astronomy, physics, and everything else about life in the universe.
 - [The Science Asylum](https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg) - At the Science Asylum, we present anything related to science from the point of view of Nick Lucid.
 
+## Swift
+
+- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
+
 ## Related
 
 - [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 - [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
-
-## Swift
-
-- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
 
 ---
 
