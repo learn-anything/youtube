@@ -19,6 +19,7 @@
 - [Physics](#physics)
 - [Swift](#swift)
 - [Related](#related)
+- [Music Production](#music-production)
 
 ---
 
@@ -132,6 +133,13 @@
 
 - [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 - [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
+
+## Music Production
+
+- [Mad zach](https://www.youtube.com/user/MadZachTV)
+- [DJ Tech Tools](https://www.youtube.com/user/eangolden)
+- [The recording revolution](https://www.youtube.com/user/recordin...)
+- [Ill Gates](https://www.youtube.com/user/illGates...)
 
 ---
 
