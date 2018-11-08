@@ -1,4 +1,4 @@
-# YouTube channels
+# Youtube channels
 
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
@@ -16,10 +16,10 @@
 - [Interesting](#interesting)
 - [Math](#math)
 - [Music](#music)
+- [Music Production](#music-production)
 - [Physics](#physics)
 - [Swift](#swift)
 - [Related](#related)
-- [Music Production](#music-production)
 
 ---
 
@@ -113,6 +113,13 @@
 - [Dynmk](https://www.youtube.com/user/dynmkde/videos)
 - [Majestic casual](https://www.youtube.com/user/majesticcasual/videos)
 
+## Music Production
+
+- [DJ Tech Tools](https://www.youtube.com/user/eangolden)
+- [Ill Gates](https://www.youtube.com/user/illGates...)
+- [Mad zach](https://www.youtube.com/user/MadZachTV)
+- [The recording revolution](https://www.youtube.com/user/recordin...)
+
 ## Physics
 
 - [Deep sky videos](https://www.youtube.com/user/DeepSkyVideos/videos)
@@ -133,13 +140,6 @@
 
 - [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 - [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
-
-## Music Production
-
-- [Mad zach](https://www.youtube.com/user/MadZachTV)
-- [DJ Tech Tools](https://www.youtube.com/user/eangolden)
-- [The recording revolution](https://www.youtube.com/user/recordin...)
-- [Ill Gates](https://www.youtube.com/user/illGates...)
 
 ---
 
