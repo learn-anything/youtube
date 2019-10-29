@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Computer science](#computer-science)
@@ -20,8 +18,6 @@
 - [Physics](#physics)
 - [Swift](#swift)
 - [Related](#related)
-
----
 
 ## Computer science
 
@@ -141,8 +137,22 @@
 - [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 - [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
 
+<<<<<<< Updated upstream
 ---
 
+||||||| merged common ancestors
+## Swift
+
+- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
+
+---
+
+=======
+## Swift
+
+- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
+
+>>>>>>> Stashed changes
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
