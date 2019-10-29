@@ -1,7 +1,4 @@
-# Youtube channels
-
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+# YouTube channels [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme) [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
 #### Contents
 
@@ -75,7 +72,7 @@
 - [Talks at Google](https://www.youtube.com/user/AtGoogleTalks/videos) - Brings authors, musicians, innovators, and speakers for talks centering on their recently published books and capturing the zeitgeist of the day.
 - [Technicality](https://www.youtube.com/user/TechnicalityTime/videos)
 - [TED-Ed](https://www.youtube.com/user/TEDEducation/videos)
-- [TED](https://www.youtube.com/user/TEDtalksDirector/videos) 
+- [TED](https://www.youtube.com/user/TEDtalksDirector/videos)
 - [The gates notes](https://www.youtube.com/user/thegatesnotes/videos)
 - [TheGoodStuff](https://www.youtube.com/user/TheGoodStuff/videos)
 - [Think fact](https://www.youtube.com/user/Thinkjijok/videos)
@@ -137,22 +134,8 @@
 - [Collection of useful YouTube channels for JavaScript developers and web designers](https://github.com/andrew--r/channels#readme)
 - [Want to go learn a thing?](http://mysterybox.goverbanoun.com/)
 
-<<<<<<< Updated upstream
----
-
-||||||| merged common ancestors
-## Swift
-
-- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
-
----
-
-=======
-## Swift
-
-- [AppleProgramming](https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg)
-
->>>>>>> Stashed changes
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+
