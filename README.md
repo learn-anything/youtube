@@ -29,6 +29,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)
 - [Sucker pinch](https://www.youtube.com/user/suckerpinch/videos)
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/videos)
+- [Scaler Academy](https://www.youtube.com/scaleracademy)
 
 ## Cooking
 
