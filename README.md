@@ -10,6 +10,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Funny](#funny)
 - [General](#general)
 - [Go](#go)
+- [History](#history)
 - [Interesting](#interesting)
 - [Math](#math)
 - [Music](#music)
@@ -89,6 +90,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 - [Package main](https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw)
+
+## History
+
+- [Oversimplified](https://www.youtube.com/c/OverSimplified) - Explains history in an OverSimplified and fun way.
 
 ## Interesting
 
